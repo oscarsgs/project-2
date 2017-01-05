@@ -1,13 +1,12 @@
 # Portfolio Website
 
+A small responsive online portfolio.
+
 ## Contents
 
 - Introduction
 - Files
 - Usage
-	- Adding movies
-	- Displaying website
-
 
 ## Introduction
 
