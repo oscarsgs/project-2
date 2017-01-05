@@ -1,8 +1,10 @@
+/*
+* Adds modal content for the selected project
+*/
 $('#project-modal').on('show.bs.modal', function (event) {
     var button = $(event.relatedTarget); // Button that triggered the modal
     // Extract info from data-* attributes
-    // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
-    // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+    // Update the modal's content.
     var title = button.data('title');
     var link = button.data('link');
     var description = button.data('description');
