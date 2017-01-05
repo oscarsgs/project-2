@@ -20,6 +20,7 @@ A small responsive online portfolio.
 - `js/app.js`: Contains custom JavaScript functions.
 - `js/bootstrap.min.js`: Contains all the JavaScript functionality provided by Bootstrap framework (minified file).
 - `img` Folder: Contains all the images used in the site. 
+- `docs/CV.pdf`: A mock Curriculum Vitae (Resumé).
 
 ## Usage
 
